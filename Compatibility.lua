@@ -1,7 +1,7 @@
 function SendMessage(Text) game.StarterGui:SetCore("SendNotification", { Title = "YeYe"; Text = Text; Duration = 1; }) end
 
 function Synapse_Proto()
-
+a.f = g;
 -- // ProtoSmasher Compatability \\ -- 
 SendMessage('Loading Protosmasher Compatible Functions')
 local syn = getgenv()
